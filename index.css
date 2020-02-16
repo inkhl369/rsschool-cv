@@ -1,0 +1,83 @@
+
+body {
+ 
+    background: viole;
+    background: linear-gradient(-45deg, rgb(170, 40, 120), rgb(48, 20, 31));
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  
+  h2 {
+    border-bottom: 3px solid rgba(255, 255, 255, 0.3);
+    color: rgba(255, 255, 255, 0.7);
+    font-weight: 150;
+    font-size: 47px;
+    line-height: 450px;
+    padding-bottom: 20px;
+    text-align: left;
+    width: 95%;
+    font-family: Georgia;
+  }
+  
+  p {
+    color: rgb(240, 247, 255);
+    line-height: 3em;
+    text-align: left;
+    width: 120%;
+    font-family: Helvetica;
+    font-size: 21px;
+    font-weight: bold;
+  }
+  
+  .information {
+    font-family: Helvetica;
+    color: rgba(255, 255, 255, 0.8);
+    float: left;
+    font-size: 40px;
+    padding-left: 100px;
+    text-transform: uppercase;
+  }
+  
+  .signature {
+    display: block;
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+    font-style: italic;
+    line-height: 10px;
+    margin-left: 25px;
+    padding: 20px;
+    position: relative;
+    top: 70%;
+    width: 40%;
+     color: black;
+    background-color: rgba(255, 170, 150, 2);
+    opacity: 100;
+    box-shadow: 15px 15px 20px 6px rgba(50, 0, 21, 0.61);
+  }
+  
+  .material {
+    padding: 157px;
+  }
+  
+  .picture {
+    background-image: url("istockphoto-453694267-1024x1024.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+  }
+  ul
+  {
+    font-size: 30px;
+    margin-left: 30px;
+    width: 100px;
+    float: left;
+
+    }
+  .writer-img {
+
+    box-shadow: 15px 15px 20px 6px rgba(42, 0, 50, 0.97);
+    float: left;
+    width: 250px;
+  }
+  
